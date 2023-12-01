@@ -89,10 +89,3 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-
-const variable = {
-    function1: ()=>{},
-    function2:()=>{},
-}
-
-variable.function2 = function ()
